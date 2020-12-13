@@ -1,0 +1,49 @@
+body {
+    background-color: #EDEDED;
+  }
+
+h1 {
+  color: #4AAAA5;
+  font-size: 40px;
+  right: 100px;
+  font-family: Georgia, "Times New Roman", Times, serif
+}
+
+.sidenav {
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    top: 100px;
+    right: 10px;
+    background: white;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+
+  .landing_img {
+    float: left;
+    padding: 0 10px 0;
+  }
+  article {
+    background-color: white;
+    max-width: 1000px;
+    float: left;
+    text-align: center;
+    line-height: 1.2;
+  }
+
+  p { 
+    text-align: justify; 
+    font-size: 25px; 
+    font-family: Georgia, "Times New Roman", Times, serif
+} 
+
+  li {
+    float: left
+}
+
+  a.navbar-brand {
+    background-color: #4AAAA5;
+    color: white;
+    padding: 10px
+  }
