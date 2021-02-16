@@ -7,7 +7,7 @@ h1 {
   margin-top: 20px;
   font-size: 30px;
   font-weight: bold;
-  text-align: left;
+  text-align: center;
   font-family: Georgia, "Times New Roman", Times, serif
 }
 
@@ -17,8 +17,21 @@ h2 {
   font-family: Georgia, "Times New Roman", Times, serif
 }
 
-.sidenav {
+h3 {
+  color: #4AAAA5;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif
+}
+
+.col-sm-3 {
     background: white;
+    float: right;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 225px;
   }
 
   .img-fluid {
@@ -27,13 +40,35 @@ h2 {
     height: 200px;
   }
 
-  .col-md-8 {
+  .img-viz {
+    float: center;
+    padding: 0 10px 0;
+    height: 300px;
+  }
+
+  .col-md-7 {
     background-color: white;
     font-family: Georgia, "Times New Roman", Times, serif;
     float: left;
     text-align: center;
     line-height: 2;
     margin: 50px
+  }
+
+  .col-md-10 {
+    background-color: white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    float: left;
+    text-align: center;
+    line-height: 2;
+    margin: 50px
+  }
+
+  .col-md-12 {
+    background-color: white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-align: center;
+    margin-top: 50px
   }
 
   p { 
