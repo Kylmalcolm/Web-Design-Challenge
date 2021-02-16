@@ -15,4 +15,4 @@ The website consist of 7 pages total, including:
   * Contains all of the visualizations on the same page so we can easily visually compare them.
 * A data page that:
   * Displays a responsive table containing the data used in the visualizations.
-*Every page also includes a navigation bar to easily move around teh website.
+*Every page also includes a navigation bar to easily move around the website.
